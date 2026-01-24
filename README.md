@@ -1,5 +1,5 @@
-Poatup instalace
----
+Postup instalace PC
+______
 1. Nejdriv instalace Kodi
 2. instalace ceskeho repozitare dle https://repo.xbmc-kodi.cz/
 3. Instalace i-vysilani
