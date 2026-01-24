@@ -80,16 +80,17 @@ Záložka Nastavení
 - Skrýt Nastavení Oneplay v menu - skryje v menu volbu Nastavení Oneplay, která slouží pro správu kanálů a nastavení doplňku
 
 Záložka IPTV Simple Client
-Adresář pro playlist a EPG - adresář, kam se bude ukládat playlist a soubor s EPG pro IPTV Simple Clienta. Po nastavení změnu nejdřív uložte kliknutím na tlačítko OK, jinak generování nebude fungovat
-Soubor s playlistem - výběr jména souboru s playlistem. Pokud se vám na Androidu playlist nebude vytvářet, můžete změnit jméno na playlist.txt
-Automaticky generovat EPG - při spuštění Kodi a pak v zadaném intervalu bude generovat EPG. Standardně vypnuto.
-Zobrazovat informace o generování EPG - zobrazení informací o automatickém generování EPG
-Interval pro generování EPG (hod.) - interval, v kterém se bude generovat EPG pro IPTV Simple Clienta. Standardně 12 hodin
-Počet dnů pro stahovaní EPG zpětně - počet dnů, pro které se bude zpětně stahovat EPG. Standardně 1 den
-Počet dnů pro stahovaní EPG dopředu - počet dnů, pro které se bude dopředu stahovat EPG. Standardně 1 den
-Catchup mod - způsob, jakým se do playlistu přidávají informace pro catchup. Výchozí je append
-Generovat playlist - vygeneruje playlist do zadaného adresáře do souboru playlist.m3u
-Generovat EPG - vygeneruje EPG do zadaného adresáře do souboru o2tv_epg.xml
+---
+- Adresář pro playlist a EPG - adresář, kam se bude ukládat playlist a soubor s EPG pro IPTV Simple Clienta. Po nastavení změnu nejdřív uložte kliknutím na tlačítko OK, jinak generování nebude fungovat
+- Soubor s playlistem - výběr jména souboru s playlistem. Pokud se vám na Androidu playlist nebude vytvářet, můžete změnit jméno na playlist.txt
+- Automaticky generovat EPG - při spuštění Kodi a pak v zadaném intervalu bude generovat EPG. Standardně vypnuto.
+- Zobrazovat informace o generování EPG - zobrazení informací o automatickém generování EPG
+- Interval pro generování EPG (hod.) - interval, v kterém se bude generovat EPG pro IPTV Simple Clienta. Standardně 12 hodin
+- Počet dnů pro stahovaní EPG zpětně - počet dnů, pro které se bude zpětně stahovat EPG. Standardně 1 den
+- Počet dnů pro stahovaní EPG dopředu - počet dnů, pro které se bude dopředu stahovat EPG. Standardně 1 den
+- Catchup mod - způsob, jakým se do playlistu přidávají informace pro catchup. Výchozí je append
+- Generovat playlist - vygeneruje playlist do zadaného adresáře do souboru playlist.m3u
+- Generovat EPG - vygeneruje EPG do zadaného adresáře do souboru o2tv_epg.xml
 
 InputStream Helper/Widevine
 Používat InputStream Helper - povoluje volání InputStream Helperu pro automatickou instalaci a aktualizaci Widevine CDM knihovny
