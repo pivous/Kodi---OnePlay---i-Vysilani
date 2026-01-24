@@ -10,7 +10,7 @@ Postup instalace PC
 
 
 Doplněk pro Oneplay
----
+____
 
 Doplněk Oneplay umožnuje sledování živého vysílání Oneplay, pořadů z archivu, základní práci s nahrávkami a integraci s IPTV Simple Clientem (generování playlistu, EPG a spouštění pořadů). Pro PVR klienty přidává i kontextové menu v EPG, pro nastavení nahrávek).
 
@@ -21,6 +21,7 @@ Pro použítí v doplňku použijte profil, který nemá nastavené Oblíbené k
 Pokud cítíte neodolatnou potřebu něco autorovi symbolicky! přispět, můžete použít PayPal. 
 
 Poslání logu
+___
 
 Pokud budete požádani o poslání logu, udělejte následující:
 
@@ -36,6 +37,7 @@ Log nebo odkaz na něj nezveřejňujte na fóru, pokud to nebude jen nějaká ko
 
 
 Zprovoznění IPTV Simple Clienta
+___
 IPTV simple client se konfiguruje v ramci konfigurace doplňku OnePlay
 
 IPTV Simple Client umožňuje v Kodi využít funkcionalit PVR doplňků pro různé IPTV Služby. V doplňku Oneplay je potřeba nastavit adresář, kam bude uložený playlist a EPG, s kterým pak IPTV SC pracuje. Playlist je potřeba vygenerovat ručně, EPG pak můžete nechat generovat v pravidelném intervalu.
