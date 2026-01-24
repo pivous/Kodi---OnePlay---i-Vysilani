@@ -58,24 +58,26 @@ Doplněk je k dispozici jen Kodi 19 (Matrix) a novější.
 Nastavení
 
 Záložka Přihlášení
-Login - přihlašovací jméno do Oneplay (stejné jako např. na webu)
-Heslo - heslo k Oneplay
-Device Id (libovolný alfanumerický řetězec) - ID zařízení, pokud ho neuvedete vygeneruje se samo
-Profilový PIN - profilový PIN v případě, že ho máte v profilu ve Oneplay nastavený
-Rodičovský PIN - pokud se rodičovský PIN shoduje s nastaveným ve Oneplay, nebude nutné u chráněných kanálů zadávat PIN
-Nová session - vynutí se získání nové session
+---
+- Login - přihlašovací jméno do Oneplay (stejné jako např. na webu) 
+- Heslo - heslo k Oneplay
+- Device Id (libovolný alfanumerický řetězec) - ID zařízení, pokud ho neuvedete vygeneruje se samo
+- Profilový PIN - profilový PIN v případě, že ho máte v profilu ve Oneplay nastavený
+- Rodičovský PIN - pokud se rodičovský PIN shoduje s nastaveným ve Oneplay, nebude nutné u chráněných kanálů zadávat PIN
+- Nová session - vynutí se získání nové session
 
 Záložka Nastavení
-Preferovat HLS streamy - při přehrávání se preferuje HLS stream bez DRM, pokud je k dispozici (může řešit problémy související s DRM ochranou)
-Alternativní barva popisků - nastavení barvy doplňujících informací u položek (výchozí je tmavě šedá)
-Obecné zobrazení seznamů v TV - seznamy v archivu i živého vysílání budou mít obecný vzhled a ne podle typu položek
-Řazení epizod - řazení epizod v kategoriích
-Počet nejnovějších epizod oblíbených - počet nejnovějších epizod každé série, které se budou zobrazovat v Nejnovější epizody oblíbených
-Historie vyhledávání - počet posledních vyhledání, které se mají zobrazovat
-Čísla kanálů - zobrazení a případně formát čísla kanálů. Standardně se nezobrazuje
-Stahovat detaily pořadů - stahují se detailní data k pořadům v kategoriích
-Vymazat keš - smaže DB se staženými detailními informacemi o pořadech
-Skrýt Nastavení Oneplay v menu - skryje v menu volbu Nastavení Oneplay, která slouží pro správu kanálů a nastavení doplňku
+---
+- Preferovat HLS streamy - při přehrávání se preferuje HLS stream bez DRM, pokud je k dispozici (může řešit problémy související s DRM ochranou)
+- Alternativní barva popisků - nastavení barvy doplňujících informací u položek (výchozí je tmavě šedá)
+- Obecné zobrazení seznamů v TV - seznamy v archivu i živého vysílání budou mít obecný vzhled a ne podle typu položek
+- Řazení-  epizod - řazení epizod v kategoriích
+- Počet nejnovějších epizod oblíbených - počet nejnovějších epizod každé série, které se budou zobrazovat v Nejnovější epizody oblíbených
+- Historie vyhledávání - počet posledních vyhledání, které se mají zobrazovat
+- Čísla kanálů - zobrazení a případně formát čísla kanálů. Standardně se nezobrazuje
+- Stahovat detaily pořadů - stahují se detailní data k pořadům v kategoriích
+- Vymazat keš - smaže DB se staženými detailními informacemi o pořadech
+- Skrýt Nastavení Oneplay v menu - skryje v menu volbu Nastavení Oneplay, která slouží pro správu kanálů a nastavení doplňku
 
 Záložka IPTV Simple Client
 Adresář pro playlist a EPG - adresář, kam se bude ukládat playlist a soubor s EPG pro IPTV Simple Clienta. Po nastavení změnu nejdřív uložte kliknutím na tlačítko OK, jinak generování nebude fungovat
