@@ -8,9 +8,9 @@ Postup instalace PC
 
 
 
-
-Doplněk pro Oneplay
 ____
+Doplněk pro Oneplay
+----
 
 Doplněk Oneplay umožnuje sledování živého vysílání Oneplay, pořadů z archivu, základní práci s nahrávkami a integraci s IPTV Simple Clientem (generování playlistu, EPG a spouštění pořadů). Pro PVR klienty přidává i kontextové menu v EPG, pro nastavení nahrávek).
 
@@ -47,8 +47,7 @@ V doplňku Oneplay je potřeba
 - Playlist je potřeba poprvé vygenerovat ručně, EPG pak můžete nechat generovat v pravidelném intervalu.
 - V nastavení IPTV Simple Clienta pak na záložce obecné vyberte v cestě k seznamu m3u playlist z adresáře, kam jste ho nechali vygenerovat (playlist.m3u případně playlist.txt) a
 - stejným způsobem na záložce Televizní program pak v XMLTV cesta vyberte soubor oneplay_epg.xml, který obsahuje EPG.
-
-Pro zpětné přehrávání je potřeba v nastavení IPTV Simple Clienta povolit tzv. catchup. Záložka Catchup je až za Časový posun, takže nemusí být vidět a bude nutné se v seznamu záložek posunout na konec. Kromě samotného povolení catchupu si můžete nastavit i jiné časové okno, pro které bude v televizním programu zpětné přehrání dostupné. V televizním programu byste měli vidět u pořadu, kde je zpětné přehrání k dispozici v levém dolním rohu zelenou tečku a v kontextovém menu Přehrát program.
+- Pro zpětné přehrávání je potřeba v nastavení IPTV Simple Clienta povolit tzv. catchup. Záložka Catchup je až za Časový posun, takže nemusí být vidět a bude nutné se v seznamu záložek posunout na konec. Kromě samotného povolení catchupu si můžete nastavit i jiné časové okno, pro které bude v televizním programu zpětné přehrání dostupné. V televizním programu byste měli vidět u pořadu, kde je zpětné přehrání k dispozici v levém dolním rohu zelenou tečku a v kontextovém menu Přehrát program.
 
 V případě problémů hlavně po změnách může pomoct v  PVR a Živé vysílání - Obecné dát Vymazat data a vybrat Vše a po vymazání restartujte Kodi. IPTV Simple Client si pak playlist i EPG načte znovu a data se uloží do DB Kodi.
 
