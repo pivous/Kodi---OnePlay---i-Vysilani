@@ -1,16 +1,16 @@
 Postup instalace PC
 -----
-1. Nejdriv instalace Kodi - https://www.ulozite.cz/cz/kodi-tv-pridavky-filmy-a-cena-cz/
-2. instalace ceskeho repozitare dle https://repo.xbmc-kodi.cz/
-3. Instalace i-vysilani
-4. Instalace Oneplay
+1. instalace Kodi - https://www.ulozite.cz/cz/kodi-tv-pridavky-filmy-a-cena-cz/
+2. instalace ceskeho repozitare dle navodu na https://repo.xbmc-kodi.cz/
+3. Instalace i-vysilani z českého repozitáře
+4. Instalace Oneplay z ceskeho repozitáře
+5. istalace IPTV simple tv Client
 
-a) instalace one play z repozitare
-b) instalace simple tv client
 
 
 
 Doplněk pro Oneplay
+---
 
 Doplněk Oneplay umožnuje sledování živého vysílání Oneplay, pořadů z archivu, základní práci s nahrávkami a integraci s IPTV Simple Clientem (generování playlistu, EPG a spouštění pořadů). Pro PVR klienty přidává i kontextové menu v EPG, pro nastavení nahrávek).
 
