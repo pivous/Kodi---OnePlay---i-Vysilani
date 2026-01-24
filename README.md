@@ -1,6 +1,6 @@
 Postup instalace PC
 ______
-1. Nejdriv instalace Kodi
+1. Nejdriv instalace Kodi - https://www.ulozite.cz/cz/kodi-tv-pridavky-filmy-a-cena-cz/
 2. instalace ceskeho repozitare dle https://repo.xbmc-kodi.cz/
 3. Instalace i-vysilani
 4. Instalace Oneplay
