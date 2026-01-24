@@ -91,15 +91,16 @@ Záložka IPTV Simple Client
 - Generovat EPG - vygeneruje EPG do zadaného adresáře do souboru o2tv_epg.xml
 
 InputStream Helper/Widevine
-Používat InputStream Helper - povoluje volání InputStream Helperu pro automatickou instalaci a aktualizaci Widevine CDM knihovny
-Zobrazení informací - zobrazení informace o instalaci Widevine CDM knihovny
-Nastavení InputStream Helper - nastavení InputStream Helper
-(Re)instalovat Widevine CDM - instalace Widevine CDM knihovny
-Odstranit Widevine CDM... - odinstalace Widevine CDM knihovny
+---
+- Používat InputStream Helper - povoluje volání InputStream Helperu pro automatickou instalaci a aktualizaci Widevine CDM knihovny
+- Zobrazení informací - zobrazení informace o instalaci Widevine CDM knihovny
+- Nastavení InputStream Helper - nastavení InputStream Helper
+- (Re)instalovat Widevine CDM - instalace Widevine CDM knihovny
+- Odstranit Widevine CDM... - odinstalace Widevine CDM knihovny
 
 Záložka Logování
-Logování požadavků - URL - budou se logovat adresy požadavků na servery Oneplay
-Logování odpovědí - budou se logovat odpovědi, které vrací servery Oneplay
-Nelogovat velké odpovědi - velké odpovědi nebudou logované
+---
+- Logování požadavků - URL - budou se logovat adresy požadavků na servery Oneplay
+- Logování odpovědí - budou se logovat odpovědi, které vrací servery Oneplay
+- Nelogovat velké odpovědi - velké odpovědi nebudou logované
 
-Odesláno z iPadu
