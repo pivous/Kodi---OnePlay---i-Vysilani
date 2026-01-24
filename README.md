@@ -51,11 +51,9 @@ V doplňku Oneplay je potřeba
 
 V případě problémů hlavně po změnách může pomoct v  PVR a Živé vysílání - Obecné dát Vymazat data a vybrat Vše a po vymazání restartujte Kodi. IPTV Simple Client si pak playlist i EPG načte znovu a data se uloží do DB Kodi.
 
-Kodi 18 (Leia)
-
-Doplněk je k dispozici jen Kodi 19 (Matrix) a novější.
-
-Nastavení
+___
+Nastavení OnePlay
+---
 
 Záložka Přihlášení
 ---
