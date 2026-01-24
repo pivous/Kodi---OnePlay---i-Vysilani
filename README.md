@@ -38,9 +38,12 @@ Log nebo odkaz na něj nezveřejňujte na fóru, pokud to nebude jen nějaká ko
 
 Zprovoznění IPTV Simple Clienta
 ___
-IPTV simple client se konfiguruje v ramci konfigurace doplňku OnePlay
 
-IPTV Simple Client umožňuje v Kodi využít funkcionalit PVR doplňků pro různé IPTV Služby. V doplňku Oneplay je potřeba - --- nastavit adresář, kam bude uložený playlist a EPG, s kterým pak IPTV SC pracuje. 
+IPTV Simple Client umožňuje v Kodi využít funkcionalit PVR doplňků pro různé IPTV Služby. 
+IPTV Simple Client se konfiguruje v rámci konfigurace doplňlu OnePlay
+
+V doplňku Oneplay je potřeba
+- nastavit adresář, kam bude uložený playlist a EPG, s kterým pak IPTV SC pracuje. 
 - Playlist je potřeba poprvé vygenerovat ručně, EPG pak můžete nechat generovat v pravidelném intervalu.
 - V nastavení IPTV Simple Clienta pak na záložce obecné vyberte v cestě k seznamu m3u playlist z adresáře, kam jste ho nechali vygenerovat (playlist.m3u případně playlist.txt) a
 - stejným způsobem na záložce Televizní program pak v XMLTV cesta vyberte soubor oneplay_epg.xml, který obsahuje EPG.
