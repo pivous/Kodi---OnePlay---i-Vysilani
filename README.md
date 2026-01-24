@@ -19,9 +19,9 @@ Po instalaci doplňku je potřeba v nastavení zadat přihlašovací údaje do O
 Pro použítí v doplňku použijte profil, který nemá nastavené Oblíbené kanály ve Oneplay. Oblíbené kanály mění pořadí kanálů a nefunguje pak správně jejich číslování.
 
 Pokud cítíte neodolatnou potřebu něco autorovi symbolicky! přispět, můžete použít PayPal. 
-
+____
 Poslání logu
-___
+---
 
 Pokud budete požádani o poslání logu, udělejte následující:
 
@@ -35,9 +35,9 @@ Pokud budete požádani o poslání logu, udělejte následující:
 
 Log nebo odkaz na něj nezveřejňujte na fóru, pokud to nebude jen nějaká konkrétní chybová hláška nebo část logu, v které nejsou žádné informace, které  by nemohl vidět každý! 
 
-
-Zprovoznění IPTV Simple Clienta
 ___
+Zprovoznění IPTV Simple Clienta
+---
 
 IPTV Simple Client umožňuje v Kodi využít funkcionalit PVR doplňků pro různé IPTV Služby. 
 IPTV Simple Client se konfiguruje v rámci konfigurace doplňlu OnePlay
