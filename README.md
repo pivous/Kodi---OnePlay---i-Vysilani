@@ -105,3 +105,87 @@ Záložka Logování
 - Logování odpovědí - budou se logovat odpovědi, které vrací servery Oneplay
 - Nelogovat velké odpovědi - velké odpovědi nebudou logované
 
+
+
+
+
+
+# Kodi – Oneplay + IPTV Simple Client (CZ)
+
+Návod pro instalaci Kodi, českého repozitáře a doplňku Oneplay včetně integrace s IPTV Simple Clientem.
+
+---
+
+## Postup instalace PC
+
+1. Instalace Kodi  
+   https://www.ulozite.cz/cz/kodi-tv-pridavky-filmy-a-cena-cz/
+
+2. Instalace českého repozitáře  
+   https://repo.xbmc-kodi.cz/
+
+3. Instalace iVysílání z českého repozitáře
+
+4. Instalace Oneplay z českého repozitáře
+
+5. Instalace IPTV Simple Client
+
+---
+
+## Doplněk Oneplay
+
+Oficiální vlákno:  
+https://www.xbmc-kodi.cz/prispevek-oneplay  
+
+Doplněk Oneplay umožňuje:
+
+- sledování živého vysílání Oneplay  
+- přehrávání pořadů z archivu  
+- základní práci s nahrávkami  
+- integraci s IPTV Simple Clientem  
+  - generování playlistu  
+  - generování EPG  
+  - spouštění pořadů z EPG  
+
+Pro PVR klienty přidává i kontextové menu v EPG (nastavení nahrávek).
+
+### Důležité poznámky
+
+- Po instalaci je nutné v nastavení zadat přihlašovací údaje do Oneplay.  
+- Použij profil bez nastavených **Oblíbených kanálů** – mění pořadí kanálů a rozbije číslování.  
+
+Pokud chceš autorovi symbolicky přispět, lze použít PayPal.
+
+---
+
+## Zprovoznění IPTV Simple Clienta
+
+IPTV Simple Client umožňuje v Kodi používat PVR funkce pro IPTV služby.  
+Konfiguruje se v rámci nastavení doplňku Oneplay.
+
+### Postup
+
+V doplňku Oneplay:
+
+- Nastav adresář pro uložení playlistu a EPG  
+- Ručně vygeneruj playlist  
+- EPG můžeš nechat generovat automaticky
+
+V nastavení IPTV Simple Clienta:
+
+- Záložka **Obecné**  
+  - Cesta k M3U playlistu → `playlist.m3u` nebo `playlist.txt`
+
+- Záložka **EPG**  
+  - XMLTV cesta → `oneplay_epg.xml`
+
+- Záložka **Catchup**  
+  - Povolit catchup  
+  - Nastavit časové okno zpětného přehrávání  
+
+V EPG se zpětné přehrávání zobrazí zelenou tečkou.
+
+### Řešení problémů
+
+Po změnách může pomoci:
+
