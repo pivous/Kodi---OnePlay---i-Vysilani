@@ -10,7 +10,7 @@ Postup instalace PC
 
 ____
 Doplněk pro Oneplay
-https://www.xbmc-kodi.cz/prispevek-oneplay
+.https://www.xbmc-kodi.cz/prispevek-oneplay
 ----
 
 Doplněk Oneplay umožnuje sledování živého vysílání Oneplay, pořadů z archivu, základní práci s nahrávkami a integraci s IPTV Simple Clientem (generování playlistu, EPG a spouštění pořadů). Pro PVR klienty přidává i kontextové menu v EPG, pro nastavení nahrávek).
