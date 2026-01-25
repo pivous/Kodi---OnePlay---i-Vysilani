@@ -110,82 +110,91 @@ Záložka Logování
 
 
 
-# Kodi – Oneplay + IPTV Simple Client (CZ)
 
-Návod pro instalaci Kodi, českého repozitáře a doplňku Oneplay včetně integrace s IPTV Simple Clientem.
-
----
-
-## Postup instalace PC
-
-1. Instalace Kodi  
-   https://www.ulozite.cz/cz/kodi-tv-pridavky-filmy-a-cena-cz/
-
-2. Instalace českého repozitáře  
-   https://repo.xbmc-kodi.cz/
-
-3. Instalace iVysílání z českého repozitáře
-
-4. Instalace Oneplay z českého repozitáře
-
-5. Instalace IPTV Simple Client
+Poté restartuj Kodi.
 
 ---
 
-## Doplněk Oneplay
+## Nastavení Oneplay
 
-Oficiální vlákno:  
-https://www.xbmc-kodi.cz/prispevek-oneplay  
+### Záložka Přihlášení
 
-Doplněk Oneplay umožňuje:
-
-- sledování živého vysílání Oneplay  
-- přehrávání pořadů z archivu  
-- základní práci s nahrávkami  
-- integraci s IPTV Simple Clientem  
-  - generování playlistu  
-  - generování EPG  
-  - spouštění pořadů z EPG  
-
-Pro PVR klienty přidává i kontextové menu v EPG (nastavení nahrávek).
-
-### Důležité poznámky
-
-- Po instalaci je nutné v nastavení zadat přihlašovací údaje do Oneplay.  
-- Použij profil bez nastavených **Oblíbených kanálů** – mění pořadí kanálů a rozbije číslování.  
-
-Pokud chceš autorovi symbolicky přispět, lze použít PayPal.
+- Login – přihlašovací jméno  
+- Heslo – heslo do Oneplay  
+- Device ID – libovolný alfanumerický řetězec  
+- Profilový PIN – pokud je nastaven  
+- Rodičovský PIN – pokud se shoduje s Oneplay  
+- Nová session – vynutí novou session
 
 ---
 
-## Zprovoznění IPTV Simple Clienta
+### Záložka Nastavení
 
-IPTV Simple Client umožňuje v Kodi používat PVR funkce pro IPTV služby.  
-Konfiguruje se v rámci nastavení doplňku Oneplay.
+- Preferovat HLS streamy  
+- Alternativní barva popisků  
+- Obecné zobrazení seznamů v TV  
+- Řazení epizod  
+- Počet nejnovějších epizod oblíbených  
+- Historie vyhledávání  
+- Čísla kanálů  
+- Stahovat detaily pořadů  
+- Vymazat keš  
+- Skrýt Nastavení Oneplay v menu  
 
-### Postup
+---
 
-V doplňku Oneplay:
+### Záložka IPTV Simple Client
 
-- Nastav adresář pro uložení playlistu a EPG  
-- Ručně vygeneruj playlist  
-- EPG můžeš nechat generovat automaticky
+- Adresář pro playlist a EPG  
+- Soubor s playlistem  
+- Automaticky generovat EPG  
+- Interval generování EPG  
+- Počet dnů EPG zpětně / dopředu  
+- Catchup mód  
+- Generovat playlist  
+- Generovat EPG  
 
-V nastavení IPTV Simple Clienta:
+---
 
-- Záložka **Obecné**  
-  - Cesta k M3U playlistu → `playlist.m3u` nebo `playlist.txt`
+### InputStream Helper / Widevine
 
-- Záložka **EPG**  
-  - XMLTV cesta → `oneplay_epg.xml`
+- Používat InputStream Helper  
+- Zobrazení informací  
+- Nastavení InputStream Helper  
+- (Re)instalovat Widevine CDM  
+- Odstranit Widevine CDM  
 
-- Záložka **Catchup**  
-  - Povolit catchup  
-  - Nastavit časové okno zpětného přehrávání  
+---
 
-V EPG se zpětné přehrávání zobrazí zelenou tečkou.
+### Záložka Logování
 
-### Řešení problémů
+- Logování požadavků (URL)  
+- Logování odpovědí  
+- Nelogovat velké odpovědi  
 
-Po změnách může pomoci:
+---
+
+## Poslání logu
+
+Pokud budeš požádán o log:
+
+1. Nainstaluj doplněk **Kodi Logfile Uploader**  
+2. Kodi → Nastavení → Systém → Protokolování  
+   - Povolit protokolování ladění  
+3. V doplňku Oneplay → Záložka Logování  
+   - Zapnout logování požadavků  
+   - Zapnout logování odpovědí  
+4. Restartuj Kodi  
+5. Nasimuluj problém  
+6. Spusť Kodi Logfile Uploader → Upload  
+7. Pošli odkaz soukromou zprávou  
+
+⚠️ Log nikdy nezveřejňuj na fóru celý.
+
+---
+
+## Licence
+
+Tento návod je poskytován „tak jak je“, bez záruky.
+
 
