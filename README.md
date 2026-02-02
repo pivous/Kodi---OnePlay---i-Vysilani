@@ -1,12 +1,10 @@
-Postup instalace PC
+# Postup instalace PC
 -----
 1. instalace Kodi - https://www.ulozite.cz/cz/kodi-tv-pridavky-filmy-a-cena-cz/
 2. instalace ceskeho repozitare dle navodu na https://repo.xbmc-kodi.cz/
 3. Instalace i-vysilani z českého repozitáře
 4. Instalace Oneplay z ceskeho repozitáře
 5. istalace IPTV simple tv Client
-
-
 
 ____
 Doplněk pro Oneplay
@@ -33,6 +31,7 @@ Pokud budete požádani o poslání logu, udělejte následující:
 * nasimulujte problém
 * spusťte Kodi Logifle Uploader, dejte upload a pošlete soukromou zprávou adresu k logu (alternativně můžete log poslat na email, který vám přes SZ pošlu)
 * nastavení logování můžete stejným způsobem vypnout
+
 
 Log nebo odkaz na něj nezveřejňujte na fóru, pokud to nebude jen nějaká konkrétní chybová hláška nebo část logu, v které nejsou žádné informace, které  by nemohl vidět každý! 
 
